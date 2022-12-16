@@ -1,0 +1,5 @@
+alert("welcome to mruh web-a-thon")
+var name=prompt("enter your name : ")
+var course=prompt("Enter your course : ")
+alert("congragulations!!"+name+"you have successfully completed web-a-thon"+course)
+console.log("congradulations !!!"+name+"you have completed web-a-thon"+course)
